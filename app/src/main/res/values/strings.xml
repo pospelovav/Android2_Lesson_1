@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Android_2_Lesson_1</string>
+    <string name="settings">settings</string>
+    <string name="main">main</string>
+    <string name="favorite">favorite</string>
+    <string name="search">search</string>
+    <string name="add">add</string>
+    <string name="back">back</string>
+    <string name="item1">item 1</string>
+    <string name="item2">item 2</string>
+    <string name="new_menu_item_added">Menu item added</string>
+    <string name="settings_fragment">SETTINGS FRAGMENT</string>
+    <string name="main_fragment">MAIN FRAGMENT</string>
+    <string name="favorite_fragment">FAVORITE FRAGMENT</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="fragment_navigation">Fragment Navigation</string>
+    <string name="exclamation">Attention!</string>
+    <string name="press_button">PRESS BUTTON</string>
+    <string name="button">BUTTON</string>
+    <string name="alert_dialog_1">Call Up Alert</string>
+
+
 </resources>
